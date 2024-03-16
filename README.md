@@ -1,7 +1,7 @@
 # NSDC-Project-Heart-Disease-Classification
 Dataset comes from https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease
 
-led three team members in NSDC club @ UCLA to develop classification models to predict whether an adult has 
+led three team members in NSDC club @ UCLA to develop classification models that predicts whether an adult has 
 heart disease.
 
 Explored data with Descriptive Statistics by Statsmodel.Logit, matplotlib, and Seaborn.
