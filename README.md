@@ -9,3 +9,5 @@ Explored data with Descriptive Statistics by Statsmodel.Logit, matplotlib, and S
 Developing the XBGClassifier, the Logistic Regression, the DecisionTreeClassifier, and the RandomForestClassifier by scikit-learn.
 
 Obtained a decent 97% F1-score and 96% validation score by N-fold cross-validation technique in the RandomForestClassifiser model.
+
+Other Contributors: Jun Ryu, Arya Patel, Giovanni Cinque
